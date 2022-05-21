@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,d as e}from"./app.14202445.js";const A='{"title":"Home Page","description":"","frontmatter":{},"headers":[],"relativePath":"guide/home-component.md","lastUpdated":1652890741000}',o={},l=e("",6),p=[l];function t(r,c,i,y,D,C){return n(),a("div",null,p)}var F=s(o,[["render",t]]);export{A as __pageData,F as default};
